@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merchants_Of_The_Galaxy", "Merchants_Of_The_Galaxy\Merchants_Of_The_Galaxy.csproj", "{16093D8D-C9C8-49A1-BFB2-438F1D6477B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16093D8D-C9C8-49A1-BFB2-438F1D6477B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16093D8D-C9C8-49A1-BFB2-438F1D6477B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16093D8D-C9C8-49A1-BFB2-438F1D6477B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16093D8D-C9C8-49A1-BFB2-438F1D6477B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {782EA836-20F7-48AC-B67D-151B0090A224}
+	EndGlobalSection
+EndGlobal
